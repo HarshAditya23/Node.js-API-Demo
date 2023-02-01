@@ -25,12 +25,12 @@ nodemon main.js
 ```
 4. Copy http link shown in cmd and paste in the browser 
 ```sh
-http://127.0.0.1:4000/
+http://127.0.0.1:8080/
 ```
 5. Click on the superhero photos to visit the more pages
 ```sh
-http://127.0.0.1:4000/ironman
-http://127.0.0.1:4000/wolverine
+http://127.0.0.1:8080/ironman
+http://127.0.0.1:8080/wolverine
 ```
 
 ### Screenshots
